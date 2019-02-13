@@ -7,3 +7,8 @@
 
 # .tfvars files
 *.tfvars
+
+# txt fajlovi
+*.txt
+TestEKS/eks-terraform/config_map_aws_auth.yaml
+TestEKS/eks-terraform/k8s-eks-config
